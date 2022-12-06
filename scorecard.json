@@ -1,0 +1,526 @@
+{
+    "MatchInfo": {
+        "Winner": "Bangladesh"
+    },
+    "Batting": [
+        {
+            "Name": "Rohit",
+            "Runs": 27,
+            "Balls": 31,
+            "Fours": 4,
+            "Sixes": 1,
+            "StrikeRate": 87.1,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Dhawan",
+            "Runs": 7,
+            "Balls": 17,
+            "Fours": 1,
+            "Sixes": 0,
+            "StrikeRate": 41.18,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Kohli",
+            "Runs": 9,
+            "Balls": 15,
+            "Fours": 1,
+            "Sixes": 0,
+            "StrikeRate": 60.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Shreyas Iyer",
+            "Runs": 24,
+            "Balls": 39,
+            "Fours": 2,
+            "Sixes": 0,
+            "StrikeRate": 61.54,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Rahul",
+            "Runs": 73,
+            "Balls": 70,
+            "Fours": 5,
+            "Sixes": 4,
+            "StrikeRate": 104.29,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Washington Sundar",
+            "Runs": 19,
+            "Balls": 43,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 44.19,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Shahbaz Ahmed",
+            "Runs": 0,
+            "Balls": 4,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 0.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Thakur",
+            "Runs": 2,
+            "Balls": 3,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 66.67,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "D Chahar",
+            "Runs": 0,
+            "Balls": 3,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 0.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Siraj",
+            "Runs": 9,
+            "Balls": 20,
+            "Fours": 1,
+            "Sixes": 0,
+            "StrikeRate": 45.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Kuldeep Sen",
+            "Runs": 2,
+            "Balls": 4,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 50.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MathcInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Najmul Hossain Shanto",
+            "Runs": 0,
+            "Balls": 1,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 0.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Litton Das",
+            "Runs": 41,
+            "Balls": 63,
+            "Fours": 3,
+            "Sixes": 1,
+            "StrikeRate": 65.08,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Anamul Haque",
+            "Runs": 14,
+            "Balls": 29,
+            "Fours": 2,
+            "Sixes": 0,
+            "StrikeRate": 48.28,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Shakib Al Hasan",
+            "Runs": 29,
+            "Balls": 38,
+            "Fours": 3,
+            "Sixes": 0,
+            "StrikeRate": 76.32,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Mushfiqur Rahim",
+            "Runs": 18,
+            "Balls": 45,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 40.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Mahmudullah",
+            "Runs": 14,
+            "Balls": 35,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 40.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Afif Hossain",
+            "Runs": 6,
+            "Balls": 12,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 50.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Mehidy Hasan Miraz",
+            "Runs": 38,
+            "Balls": 39,
+            "Fours": 4,
+            "Sixes": 2,
+            "StrikeRate": 97.44,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Ebadot Hossain",
+            "Runs": 0,
+            "Balls": 3,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 0.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Hasan Mahmud",
+            "Runs": 0,
+            "Balls": 2,
+            "Fours": 0,
+            "Sixes": 0,
+            "StrikeRate": 0.0,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Mustafizur Rahman",
+            "Runs": 10,
+            "Balls": 11,
+            "Fours": 2,
+            "Sixes": 0,
+            "StrikeRate": 90.91,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MathcInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        }
+    ],
+    "Bowling": [
+        {
+            "Name": "Mustafizur",
+            "Overs": 7.0,
+            "Maiden": 1,
+            "Runs": 19,
+            "Wickets": 0,
+            "NoBalls": 0,
+            "Wides": 0,
+            "EconomyRate": 2.7,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MatchInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Hasan Mahmud",
+            "Overs": 7.0,
+            "Maiden": 1,
+            "Runs": 40,
+            "Wickets": 0,
+            "NoBalls": 0,
+            "Wides": 4,
+            "EconomyRate": 5.7,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MatchInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Mehidy Hasan Miraz",
+            "Overs": 9.0,
+            "Maiden": 1,
+            "Runs": 43,
+            "Wickets": 1,
+            "NoBalls": 0,
+            "Wides": 3,
+            "EconomyRate": 4.8,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MatchInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Shakib",
+            "Overs": 10.0,
+            "Maiden": 2,
+            "Runs": 36,
+            "Wickets": 5,
+            "NoBalls": 0,
+            "Wides": 0,
+            "EconomyRate": 3.6,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MatchInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Ebadot Hossain",
+            "Overs": 8.2,
+            "Maiden": 0,
+            "Runs": 47,
+            "Wickets": 4,
+            "NoBalls": 1,
+            "Wides": 5,
+            "EconomyRate": 5.6,
+            "WinLoss": true,
+            "Team": "Bangladesh",
+            "MatchInfo": {
+                "Total": 187,
+                "Wickets": 9,
+                "Overs": 46.0
+            }
+        },
+        {
+            "Name": "Deepak Chahar",
+            "Overs": 8.0,
+            "Maiden": 1,
+            "Runs": 32,
+            "Wickets": 1,
+            "NoBalls": 2,
+            "Wides": 0,
+            "EconomyRate": 4.0,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Mohammed Siraj",
+            "Overs": 10.0,
+            "Maiden": 1,
+            "Runs": 32,
+            "Wickets": 3,
+            "NoBalls": 0,
+            "Wides": 2,
+            "EconomyRate": 3.2,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Kuldeep Sen",
+            "Overs": 5.0,
+            "Maiden": 0,
+            "Runs": 37,
+            "Wickets": 2,
+            "NoBalls": 0,
+            "Wides": 3,
+            "EconomyRate": 7.4,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Shahbaz Ahmed",
+            "Overs": 9.0,
+            "Maiden": 0,
+            "Runs": 39,
+            "Wickets": 0,
+            "NoBalls": 0,
+            "Wides": 0,
+            "EconomyRate": 4.3,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Washington Sundar",
+            "Overs": 5.0,
+            "Maiden": 0,
+            "Runs": 17,
+            "Wickets": 2,
+            "NoBalls": 0,
+            "Wides": 0,
+            "EconomyRate": 3.4,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        },
+        {
+            "Name": "Shardul Thakur",
+            "Overs": 9.0,
+            "Maiden": 1,
+            "Runs": 21,
+            "Wickets": 1,
+            "NoBalls": 0,
+            "Wides": 1,
+            "EconomyRate": 2.3,
+            "WinLoss": false,
+            "Team": "India",
+            "MatchInfo": {
+                "Total": 186,
+                "Wickets": 10,
+                "Overs": 41.2
+            }
+        }
+    ]
+}
